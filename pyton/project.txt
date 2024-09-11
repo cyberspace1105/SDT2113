@@ -1,0 +1,11 @@
+SKR5501-Project
+
+Week 4 	Hello World p/g-07
+Week 5 	Simulation Modelling M/M/1 pg 07-13
+Week 7 	random-python.py p/g 10
+	lcg-generator.py pg 16
+	lcg-lehmer.py pg 17
+	lcg-lewis-learmonth.py pg 18
+
+2 more code will be given in the next class
+	
